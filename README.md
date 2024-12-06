@@ -36,7 +36,7 @@ A simple Python project designed to enhance cybersecurity awareness by providing
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/password-utility-tool.git
+   git clone https://github.com/prasanth8961/password-utility-tool.git
    cd password-utility-tool
    python main.py
 
